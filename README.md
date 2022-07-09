@@ -2,7 +2,7 @@
 Stack Mysqlern
 
 para realizar este context hay que instalar algunos modulos como por ejemplo
-********************************FRONTBACKEND*************************************
+********************************FRONTEND*************************************
 -npm install bootstrap para stilizar la aplicacion
 
 //para poder manejar las rutas y enrutar los componentes gracias a este paquete
