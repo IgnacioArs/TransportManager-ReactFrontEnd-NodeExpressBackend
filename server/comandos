@@ -1,0 +1,9 @@
+//comandos para el servidor
+-npm init --yes
+-npm install express mysql
+-npm install morgan ---> asi podemos gestionar mejor los cambios
+-CREAMOS UN ARCHIVO index en la carpeta principal y sera nuestro archivo servidor
+-AL MOMENTO DE REALIZAR LAS PETICIONES CON AXIOS DESDE NUESTRO FRONTEND HACIA NUESTRO BACKEND NECESITAMOS INSTALAR EL SIGUIENTE MODULO
+-npm install cors
+-npm install nodemon -D
+-npm install npm install bcryptjs
