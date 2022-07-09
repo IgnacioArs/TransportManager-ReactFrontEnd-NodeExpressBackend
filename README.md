@@ -33,7 +33,7 @@ MODULO PARA LA CONFIGURACION Y CREACION Y CONEXION A NUESTRA BASE DE DATOS CON L
 (Apache, MariaDB/MySQL, PHP, Perl.)
 -npm install mysql
 
--npm install morgan ---> asi podemos gestionar mejor los cambios
+-npm install morgan ---> asi podemos gestionar mejor los cambios o realiza registro de las solicitudes
 -CREAMOS UN ARCHIVO index en la carpeta principal y sera nuestro archivo servidor
 AL MOMENTO DE REALIZAR LAS PETICIONES CON AXIOS DESDE NUESTRO FRONTEND HACIA NUESTRO BACKEND NECESITAMOS INSTALAR EL SIGUIENTE MODULO
 -npm install cors
