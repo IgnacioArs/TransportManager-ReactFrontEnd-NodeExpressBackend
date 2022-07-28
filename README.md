@@ -15,15 +15,15 @@
 ## -npm install react-bootstrap // bootstrap para los estilos
 
 # ***********************BACKEND***************************************************
-               ## comandos para el servidor
+## comandos para el servidor
 
 ## -npm init --yes //MODULO PARA CREAR NUESTRO ARCHIVO DE CONFIGURACION
 ## -npm install express //MODULO PARA LA CREACION Y LA OPERATIVIDAD DE NUESTRO SERVIDOR
 ## -npm install mysql //MODULO PARA LA CONFIGURACION Y CREACION Y CONEXION A NUESTRA BASE DE DATOS CON LA INTERFACE O SERVIDOR WEB DE NUESTRA BASE DE DATOS XAMP
-(Apache, MariaDB/MySQL, PHP, Perl.)
+## (Apache, MariaDB/MySQL, PHP, Perl.)
 
 ## -npm install morgan //asi podemos gestionar mejor los cambios o realiza registro de las solicitudes
-## -npm install cors //CREAMOS UN ARCHIVO index en la carpeta principal y sera nuestro archivo servidor AL MOMENTO DE REALIZAR LAS PETICIONES CON AXIOS DESDE NUESTRO FRONTEND HACIA NUESTRO BACKEND NECESITAMOS INSTALAR EL SIGUIENTE MODULO
-ESTE MODULO NOS AYUDARA DE FORMA DE DESARROLLO 
+## -npm install cors //CREAMOS UN ARCHIVO index en la carpeta principal y sera nuestro archivo servidor AL MOMENTO DE REALIZAR LAS PETICIONES CON AXIOS DESDE NUESTRO ## FRONTEND HACIA NUESTRO BACKEND NECESITAMOS INSTALAR EL SIGUIENTE MODULO
+## ESTE MODULO NOS AYUDARA DE FORMA DE DESARROLLO 
 ## -npm install nodemon -D //NODEMON ES EL MODULO DE DESARROLLO LA CUAL NO AYUDARA IR VERIFICANDO EL CODIGO MEDIANTE LOS CAMBIO QUE ESTAREMOS REALIZANDO
 ## -npm install bcryptjs //EN EL CASO DE BCRYPTJS EN EL FRONTEND SIRVE PARA AL MOMENTO DE RECIBIR NUESTRA RESPUESTA DEL BACKEND COMPARAR NUESTRA CONTRASEÑA DE ACCESO
